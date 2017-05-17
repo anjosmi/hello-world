@@ -3,3 +3,46 @@
 Hey there!
 
 Hope you are not looking for documentation or great notes at this time. :^) Testing few features here and having fun while doing it.
+
+# Table of Contents
+
+[Question 1](#question1)
+[Question 2](#question2)
+[Question 3](#question3)
+[Question 4](#question4)
+[Question 5](#question5)
+[Question 6](#question6)
+
+## Question1
+
+Specification:
+- Write a program that breaks up a string of words with no spaces into a string with the appropriate spaces.
+Say that you have a string "helloworld", this program will split it into a sentence "hello world".
+
+Questions you may ask to clarify expectations:
+- What if I have an empty String?
+- What if there are more than 2 words?
+- What if there are only numbers?
+- What if there is a empty String?
+
+
+## Question2
+
+
+
+## Question3
+
+
+
+## Question4
+
+
+
+
+## Question5
+
+
+
+## Question6
+
+
