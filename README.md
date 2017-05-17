@@ -24,7 +24,7 @@ Questions you may ask to clarify expectations:
 - What if there are more than 2 words?
 - What if there are only numbers?
 - What if there is an empty String?
-
+- What if the words are not spelled correctly?
 
 ## Question2
 
