@@ -33,7 +33,6 @@ public class ElementFinder {
 
     public static Set<Integer> removeDuplicateItems(int arr[]) {
         System.out.println("removeDuplicateItems");
-        List<Integer> elements = new ArrayList<>();
         Set<Integer> duplicatedElements = new HashSet<>();
 
         for (int i = 0; i < arr.length; i++) {
