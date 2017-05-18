@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class ElementFinder {
 
@@ -30,6 +28,18 @@ public class ElementFinder {
                 duplicatedElements.add(arr[i]);
             }
         }
+        return duplicatedElements;
+    }
+
+    public static Set<Integer> removeDuplicateItems(int arr[]) {
+        System.out.println("removeDuplicateItems");
+        List<Integer> elements = new ArrayList<>();
+        Set<Integer> duplicatedElements = new HashSet<>();
+
+        for (int i = 0; i < arr.length; i++) {
+            duplicatedElements.add(arr[i]);
+        }
+
         return duplicatedElements;
     }
 

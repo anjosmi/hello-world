@@ -7,8 +7,8 @@ Hope you are not looking for documentation or great notes at this time. :^) Test
 # Table of Contents
 
 [Question 1](#question1)
-[Question 2](#question2) - Solution implemented @ ElementFinder.java
-[Question 3](#question3) 
+[Question 2](#question2)
+[Question 3](#question3) - Solution implemented @ ElementFinder.java
 [Question 4](#question4)
 [Question 5](#question5)
 [Question 6](#question6)
