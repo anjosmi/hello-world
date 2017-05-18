@@ -1,0 +1,11 @@
+public class MyApp {
+    public static void main(String args[]) {
+        ElementFinder duplicate = new ElementFinder();
+        int arr[] = {1, 3, 5, 6, 3, 6, 7, 10};
+        System.out.println(duplicate.findDuplicate(arr));
+
+        System.out.println(duplicate.sortAndFindDuplicate(arr));
+
+        System.out.println(duplicate.cleanDuplicates(arr));
+    }
+}
