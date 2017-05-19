@@ -12,5 +12,10 @@ public class MyApp {
         System.out.println(duplicate.cleanDuplicates(arr));
 
         System.out.println(duplicate.removeDuplicateItems(arr));
+
+        StringSelector stringSelector = new StringSelector();
+        String str = stringSelector.reverseString("dlroW olleH");
+        System.out.println(str);
+
     }
 }

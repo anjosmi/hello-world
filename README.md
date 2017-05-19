@@ -8,7 +8,7 @@ Hope you are not looking for documentation or great notes at this time. :^) Test
 
 [Question 1](#question1)
 [Question 2](#question2)
-[Question 3](#question3) - Solution implemented @ ElementFinder.java
+[Question 3](#question3) Solution implemented @ ElementFinder.java
 [Question 4](#question4)
 [Question 5](#question5)
 [Question 6](#question6)
@@ -19,7 +19,7 @@ Specification:
 - Write a function that breaks up a string of words with no spaces into a string with the appropriate spaces.
 Say that you have a string "helloworld", this program will split it into a sentence "hello world".
 
-Questions you may ask to clarify expectations:
+Questions you may ask to clarify expectations and finalize your method signature:
 - What if I have an empty String?
 - What if there are more than 2 words?
 - What if there are only numbers?
