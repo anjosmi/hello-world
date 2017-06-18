@@ -30,8 +30,8 @@ Questions you may ask to clarify expectations and finalize your method signature
 ## Question2
 
 Specification:
-- Write a function that will find a duplicated number in an array.
-Say that you have an array with elements 1,3,5,6,3,6,7,10. This program will return only the duplicated elements 3,6.
+- Write a function that will find duplicate number in an array.
+Say that you have an array with elements 1,3,5,6,3,6,7,10. This program will return only duplicate elements 3,6.
 
 
 ## Question3
@@ -44,8 +44,8 @@ Say that you have a String "dlroW olleH". This program will return "Hello World"
 ## Question4
 
 Specification:
-- Write a function that will clean all duplicated numbers in an array.
-Say that you have an array with elements 1,3,5,6,3,6,7,10. This program will return only the duplicated elements 1,3,5,6,7,10.
+- Write a function that will clean all duplicate numbers in an array.
+Say that you have an array with elements 1,3,5,6,3,6,7,10. This program will return only duplicate elements 1,3,5,6,7,10.
 
 
 ## Question5
