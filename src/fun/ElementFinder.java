@@ -3,7 +3,6 @@ import java.util.*;
 public class ElementFinder {
 
     public static List<Integer> sortAndFindDuplicate(int arr[]) {
-        System.out.println("sortAndFindDuplicate");
         List<Integer> repeatedElements = new ArrayList<>();
         Arrays.sort(arr);
 
@@ -16,7 +15,6 @@ public class ElementFinder {
     }
 
     public static List<Integer> findDuplicate(int arr[]) {
-        System.out.println("findDuplicate");
         List<Integer> elements = new ArrayList<>();
         List<Integer> duplicatedElements = new ArrayList<>();
 
@@ -32,7 +30,6 @@ public class ElementFinder {
     }
 
     public static Set<Integer> removeDuplicateItems(int arr[]) {
-        System.out.println("removeDuplicateItems");
         Set<Integer> duplicatedElements = new HashSet<>();
 
         for (int i = 0; i < arr.length; i++) {
@@ -43,7 +40,6 @@ public class ElementFinder {
     }
 
     public static List<Integer> cleanDuplicates(int arr[]) {
-        System.out.println("cleanDuplicates");
         List<Integer> elements = new ArrayList<>();
         List<Integer> duplicatedElements = new ArrayList<>();
 
