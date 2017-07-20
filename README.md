@@ -51,4 +51,4 @@ Say that you have an array with elements 1,3,5,6,3,6,7,10. This program will ret
 ## Question5
 
 Specification:
-- Write a function that find a given string inside a list of elements.
+- Write a function that finds a given string inside a list of elements.
